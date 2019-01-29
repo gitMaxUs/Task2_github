@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 ghjklccccccccccccc
+=======
+ghjkl
+aaaaaaaaaaaaa
+bbbbbbbbbbbbb
+ccccccccccccc
+>>>>>>> 4c1961ad32369ced464eaa31cd03b9edef6993a0
